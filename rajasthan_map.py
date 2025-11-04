@@ -1,6 +1,6 @@
 // ===================================================================
 // RAJASTHAN MULTI-YEAR EVI ANALYSIS (2010–2024)
-// Author: Darshita Patel (Purdue University / Syngenta Data Mine)
+// Author: Aarav Patel (Purdue University / Syngenta Data Mine)
 // ===================================================================
 
 // 1️⃣ Load India states and filter for Rajasthan
